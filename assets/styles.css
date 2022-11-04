@@ -410,6 +410,16 @@ footer {
    .som {
     display: initial;
    }
+   h2 {
+    font-size: 3em;
+   }
+   table p {
+    font-size: 1.4em;
+   }
+   .tag {
+    font-size: 1.2em;
+   }
+   
    .article {
      width: 90vw !important;
    }
@@ -418,11 +428,11 @@ footer {
      font-size: 2.6em;
    }
    .article h2 {
-    font-size: 4em;
+    font-size: 5em;
    }
 
-   .content-main {
-    margin: 1em;
-  }
+  .article img {
+    max-height: 450px;
+   }
 
 }
