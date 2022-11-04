@@ -412,12 +412,13 @@ footer {
    }
    h2 {
     font-size: 3em;
+    font-weight: 700;
    }
    table p {
-    font-size: 1.4em;
+    font-size: 1.9em;
    }
    .tag {
-    font-size: 1.2em;
+    font-size: 1.4em;
    }
    
    .article {
