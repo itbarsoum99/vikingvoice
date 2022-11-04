@@ -403,6 +403,9 @@ footer {
     font-size: 8em;
     line-height: 105%;
   }
+  header {
+    width: 90%;
+   } 
   p {
     font-size: 2.4em;
   }
