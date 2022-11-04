@@ -441,5 +441,32 @@ footer {
   .article img {
     max-height: 450px;
    }
+.sports::before {
+  padding-right: 5px;
+}
+
+.bulletin::before {
+  padding-right: 5px;
+}
+
+.news::before {
+  padding-right: 5px;
+}
+
+.creative::before {
+  padding-right: 5px;
+}
+
+.advice::before {
+  padding-right: 5px;
+}
+
+.opinion::before {
+  padding-right: 5px;
+}
+
+.spotlight::before {
+  padding-right: 5px;
+}
 
 }
