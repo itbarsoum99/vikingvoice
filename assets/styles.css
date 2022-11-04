@@ -415,5 +415,10 @@ footer {
    }
    .article-body p {
      text-align: left;
+     font-size: initial;
    }
+  #mainpage {
+    font-size: initial;
+  }
+
 }
