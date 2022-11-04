@@ -411,7 +411,7 @@ footer {
     display: initial;
    }
    .article {
-     width: 100vw;
+     width: 100vw !important;
    }
    .article p {
      text-align: left;
