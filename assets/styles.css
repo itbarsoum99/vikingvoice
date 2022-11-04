@@ -29,9 +29,11 @@ a {
   text-decoration: none;
  }
 
+@media (pointer: fine) {
 .nmbs {
   margin-block-start: 0 !important;
   margin-top: 0 !important;
+}
 }
 
 .nmbe {
@@ -436,8 +438,5 @@ footer {
   .article img {
     max-height: 450px;
    }
-   .nmbs {
-    margin-top:0.8em;
-    }
 
 }
