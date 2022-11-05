@@ -280,9 +280,12 @@ table p {
 
 .article {
   width: 45vw;
-  text-align: left;
   margin: auto;
   text-align: center;
+}
+
+.left-align {
+  text-align: left;
 }
 
 .article h2 {
