@@ -53,6 +53,10 @@ a {
   text-indent: 70px !important;
 }
 
+
+
+
+
 /* header */
 header {
   text-align: center;
@@ -209,36 +213,50 @@ table p {
 .sports::before {
   content: '🟡';
   padding-right: 3px;
+  
+  opacity: 0.75;
 }
 
-.bulletin::before {
-  content: '🟤';
+.thoughts::before {
+  content: '🔴';
   padding-right: 3px;
+  opacity: 0.75;
+
 }
 
 .news::before {
   content: '🟢';
   padding-right: 3px;
+  opacity: 0.75;
+
 }
 
 .creative::before {
   content: '🟠';
   padding-right: 3px;
+  opacity: 0.75;
+
 }
 
 .advice::before {
   content: '🟣';
   padding-right: 3px;
+  opacity: 0.75;
+
 }
 
 .opinion::before {
   content: '🔵';
   padding-right: 3px;
+  opacity: 0.75;
+
 }
 
 .spotlight::before {
   content: '⚪';
   padding-right: 3px;
+  opacity: 0.75;
+
 }
 
 /* error */
@@ -332,6 +350,7 @@ table p {
 #mainpage a {
   color: initial;
 }
+
 
 h1 a {  
   color: initial;
