@@ -212,8 +212,7 @@ table p {
 
 .sports::before {
   content: '🟡';
-  padding-right: 3px;
-  
+  margin-right: 3px;
   opacity: 0.75;
 }
 
