@@ -220,7 +220,6 @@ table p {
   content: '🔴';
   padding-right: 3px;
   opacity: 0.75;
-
 }
 
 .news::before {
@@ -234,7 +233,6 @@ table p {
   content: '🟠';
   padding-right: 3px;
   opacity: 0.75;
-
 }
 
 .advice::before {
