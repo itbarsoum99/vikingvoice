@@ -256,6 +256,12 @@ table p {
 
 }
 
+.misc::before {
+  content: '⚫';
+  padding-right: 3px;
+  opacity: 0.75;
+}  
+
 /* error */
 .error h1 {
   font-family: 'DM Serif Display', serif;
